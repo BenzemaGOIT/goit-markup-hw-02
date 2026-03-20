@@ -30,11 +30,6 @@ text-transform: uppercase;
 color: #2e2f42;
 }
 
-.header-logo:hover,
-.header-logo:focus {
-  color: #4D5AE5;
-}
-
 .header-logo-span {
 color: #4d5ae5;
 }
@@ -209,11 +204,6 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #f4f4fd;
-}
-
-.foot-logo:hover,
-.foot-logo:focus {
-  color: #4D5AE5;
 }
 
 .foot-logo-span {
